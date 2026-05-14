@@ -131,7 +131,8 @@ The cleaned dataset is now ready for further analysis and reporting.
 ## 📁 Files Included
 
 * `Task1.ipynb` → Main Jupyter Notebook
-* `cleaned_dataset.csv` → Cleaned dataset
+* `dirty_dataset.xlsx` → dirty dataset
+* `cleaned_dataset.xlsx` → Cleaned dataset
 * `README.md` → Project documentation
 
 ---
@@ -141,6 +142,55 @@ The cleaned dataset is now ready for further analysis and reporting.
 This project was completed as part of the **DecodesLab Data Analytics Virtual Internship**.
 
 ---
+
+## ▶️ How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ume1088/DecodeLabs_Internship_Task1.git
+```
+
+---
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd DecodeLabs_Internship_Task1
+```
+
+---
+
+### 3. Install Required Libraries
+
+```bash
+pip install pandas numpy
+```
+
+---
+
+### 4. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Task1.ipynb
+```
+
+and run all cells.
+
+---
+
+## 📌 Requirements
+
+* Python 3.x
+* Pandas
+* Jupyter Notebook
+
 ## 👩‍💻 About the Author
 
 **Ume Habiba**
@@ -156,4 +206,5 @@ Currently focused on:
 Actively building real-world projects and practical experience through internships and hands-on learning.
 
 GitHub: https://github.com/ume1088
+
 LinkedIn: www.linkedin.com/in/ume-habiba-88313537b
